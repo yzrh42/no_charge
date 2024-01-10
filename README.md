@@ -48,3 +48,6 @@ LINE Messaging API
 
 ## 画面遷移図
 https://www.figma.com/file/e21GEVqa3OmoLToIWRwGhv/%E7%84%A1%E9%A1%8C?type=design&node-id=0%3A1&mode=design&t=e0wGtXho7TXkDBe6-1
+
+## ER図
+[![Image from Gyazo](https://i.gyazo.com/25f4408a97af86390e0ac6c3271169d2.png)](https://gyazo.com/25f4408a97af86390e0ac6c3271169d2)
